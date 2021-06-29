@@ -23,7 +23,7 @@ I used in the Task:
 
 
 
-The picture for the Database and all of the three interfaces:
+The pictures for the Database and all of the three interfaces:
 
 <img width="589" alt="Arm Control" src="https://user-images.githubusercontent.com/86008612/123852110-9f530400-d924-11eb-95d2-3f39f7dc0a97.png">
 <img width="657" alt="Base Control" src="https://user-images.githubusercontent.com/86008612/123851308-b34a3600-d923-11eb-9174-44de563fd3a5.png">
