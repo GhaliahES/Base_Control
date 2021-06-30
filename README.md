@@ -29,7 +29,7 @@ The pictures for the Database and all of the three interfaces:
 
 <img width="657" alt="Base Control" src="https://user-images.githubusercontent.com/86008612/123851308-b34a3600-d923-11eb-9174-44de563fd3a5.png">
 
-<img width="454" alt="Choose which Control" src="https://user-images.githubusercontent.com/86008612/123851312-b3e2cc80-d923-11eb-8b96-636e0ce2f0d5.png">
+<img width="426" alt="Choose which Control" src="https://user-images.githubusercontent.com/86008612/123889020-50759080-d95d-11eb-8144-5593d9103732.png">
 
 <img width="841" alt="Base control Database" src="https://user-images.githubusercontent.com/86008612/123888692-bb729780-d95c-11eb-8992-f65cc3780404.png">
 
