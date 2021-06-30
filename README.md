@@ -1,6 +1,8 @@
 # Base_Control
 Second Taks 
 
+Hello,
+
 First I like to mention that I fixed the design and database of my first task (Robot Arm Control)
 
 In this repository I have Done the Following:
@@ -19,7 +21,7 @@ I used in the Task:
 4. Sublime Text for the Coding
 5. XAMPP for the Localhost
 6. Firefox browser
-7. with the help of Youtube, w3schools, google and the official group of the Smartmethods IOT section
+7. help of Youtube, w3schools, google and the official group of the Smartmethods IOT section
 
 
 
